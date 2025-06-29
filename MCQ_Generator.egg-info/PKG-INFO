@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: MCQ-Generator
+Version: 0.1
+Summary: A tool to generate multiple choice questions from text using deepseek-r1 model.
+Author: Anubhav Biswas
+Author-email: anubhavbiswas25@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2

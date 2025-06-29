@@ -1,0 +1,10 @@
+openai
+langchain
+python-dotenv
+streamlit
+pyPDF2
+
+
+-e . 
+# Local package dependencies
+# The above line allows you to install the package in editable mode, which is useful for local development.
