@@ -4,6 +4,7 @@ python-dotenv
 streamlit
 pyPDF2
 langchain_community
+pydantic
 
 
 -e . 
