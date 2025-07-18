@@ -1,0 +1,1 @@
+An application which uses google gemini to convert text(prompts) to perform query in a SQLite DB
